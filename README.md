@@ -8,5 +8,5 @@ I recommend making an alias in your shell configuration file (bashrc, zshrc, etc
 Example: alias key="~/Documents/github/tools/key\_logger/key\_logger"\
 \
 This program is open source and free to do whatever with, I won't even ask for credit, I don't care.\
-Just note that it requires certain libraries, so you will have to compile with them as well. Here's how: gcc key\_logger.c -l ncurses -o key\_logger\
-\
+Just note that it requires certain libraries, so you will have to compile with them as well.\
+Here's how: gcc key\_logger.c -l ncurses -o key\_logger\
