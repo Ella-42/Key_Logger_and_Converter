@@ -11,4 +11,6 @@ This program is open source and free to do whatever with, I won't even ask for c
 Just note that it requires certain libraries, so you will have to compile with them as well.\
 Here's how: gcc key\_logger.c -l ncurses -o key\_logger\
 \
+Currently mouse support has not been implemented yet, middle mouse button will come back incorrectly.\
+\
 ![Showcase](https://raw.githubusercontent.com/LarsCampus19/Key_Logger_and_Converter/tool/delete-me/Showcase.gif)
