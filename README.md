@@ -1,4 +1,4 @@
-# Key Logger \\ converter
+# Key Logger \\ Converter
 
 The purpose of this rather simplistic program is to log keys and return them back together with it's keycode value.\
 \
